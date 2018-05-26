@@ -36,9 +36,6 @@
  * Google Fonts
  */
 
-@import "https://fonts.googleapis.com/css?family=Signika:400,300,600,700";
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900');
-
 /**
  * Font Icons
  */
@@ -59,7 +56,6 @@
  */
 
 html {
-    font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -208,7 +204,6 @@ table {
 }
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -249,7 +244,7 @@ a:hover {
 }
 
 a {
-    color: #FE8800;
+    color: #87C9AE;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -274,7 +269,6 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'Signika', sans-serif;
     line-height: 1.4;
     color: #111
 }
@@ -1898,7 +1892,7 @@ ul.list-yes-no li:before {
     top: 1px;
     left: 0;
     font-size: 24px;
-    color: #FE8800;
+    color: #87C9AE;
 }
 
 ul.list-yes-no li.no {
@@ -1937,7 +1931,7 @@ ul.list-col-3 li {
     bottom: 5px;
     left: 15px;
     width: 25px;
-    background: #FE8800;
+    background: #87C9AE;
 }
 
 .list-yes-no-box:after {
@@ -2816,7 +2810,7 @@ section,
 }
 
 .text-primary {
-    color: #FE8800 !important;
+    color: #87C9AE !important;
 }
 
 .text-info {
@@ -3063,7 +3057,7 @@ h5.section-title {
  */
 
 .bg-primary {
-    background: #FE8800 !important;
+    background: #87C9AE !important;
     color: #FFF !important;
 }
 
@@ -3279,8 +3273,8 @@ h5.section-title {
 }
 
 .btn-primary {
-    background: #FE8800;
-    border-color: #FE8800;
+    background: #87C9AE;
+    border-color: #87C9AE;
     color: #FFF !important;
 }
 
@@ -3361,7 +3355,7 @@ h5.section-title {
 }
 
 .btn-primary.btn-border {
-    color: #FE8800 !important;
+    color: #87C9AE !important;
 }
 
 .btn-info.btn-border {
@@ -3382,8 +3376,8 @@ h5.section-title {
 
 .btn-primary.btn-border:hover {
     color: #FFF !important;
-    background: #FE8800;
-    border-color: #FE8800;
+    background: #87C9AE;
+    border-color: #87C9AE;
 }
 
 .btn-info.btn-border:hover {
@@ -3542,7 +3536,7 @@ h5.section-title {
 }
 
 .label-primary {
-    background: #FE8800;
+    background: #87C9AE;
 }
 
 
@@ -3566,7 +3560,7 @@ h5.section-title {
 }
 
 .form-control:focus {
-    border-color: #FE8800;
+    border-color: #87C9AE;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -3643,8 +3637,8 @@ h5.section-title {
 }
 
 .form-control.form-control-primary {
-    border-color: #FE8800;
-    background: #FE8800;
+    border-color: #87C9AE;
+    background: #87C9AE;
     color: rgba(255, 255, 255, 1);
 }
 
@@ -3661,7 +3655,7 @@ h5.section-title {
 }
 
 .form-control.form-control-primary-border {
-    border: 1px solid #FE8800;
+    border: 1px solid #87C9AE;
     color: rgba(254, 136, 0, 1);
 }
 

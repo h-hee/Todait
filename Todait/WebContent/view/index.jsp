@@ -26,37 +26,12 @@
 
 	<!-- CSS Custom -->
 	<link href="/css/style.css" rel="stylesheet">
-	<link href="/css/login.css" type="text/css" rel="stylesheet">
-	<style>
-		@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy|Nanum+Gothic+Coding');
-		
-		.container h1 {
-			font-family: 'Luckiest Guy', cursive;
-		}
-		
-		.login-content, .align {
-			display : inline-block;
-			width: 48%;
-		}
-		
-		.login-content .col-xs-12 {
-			float : none;
-			width : 100%;
-			margin: 50px 0;
-		}
-		.container > .row {
-			-webkit-box-flex: 1;
-			-webkit-flex: 1; 
-			-ms-flex: 1; 
-			flex: 1; 
-		}
-		.fontawesome-user:before, .fontawesome-lock:before {
-			color : #eee;
-		}
-	</style>
 	
 	<!-- Add your style -->
 	<link href="/css/your-style.css" rel="stylesheet">
+	<link href="/css/hh/login.css" type="text/css" rel="stylesheet"/>
+	<link href="/css/hh/index.css" type="text/css" rel="stylesheet"/>
+	
 	
 </head>
 <body class="home transparent-header">

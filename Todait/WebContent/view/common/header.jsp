@@ -32,45 +32,45 @@
 						<ul class="nav navbar-nav" id="responsive-menu">
 						
 							<li>
-								<a href="/index.html">PLANNING</a>
+								<a href="/view/planning/p_today.jsp">PLANNING</a>
 								<ul>
-									<li><a href="/index-02.html">Today</a></li>
-									<li><a href="/index-03.html">Category</a></li>
-									<li><a href="/index-04.html">Stopwatch</a></li>
+									<li><a href="/view/planning/p_today.jsp">Today</a></li>
+									<li><a href="/view/planning/p_category.jsp">Category</a></li>
+									<li><a href="/view/planning/p_stopwatch.jsp">Stopwatch</a></li>
 								</ul>
 							</li>
 							
 							<li>
-								<a href="/offered.html">FEEDBACK</a>
+								<a href="/view/feedback/f_date.jsp">FEEDBACK</a>
 								<ul>
-									<li><a href="/offered-result.html">By Date</a></li>
-									<li><a href="/offered-detail.html">By Category</a></li>
+									<li><a href="/view/feedback/f_date.jsp">By Date</a></li>
+									<li><a href="/view/feedback/f_cate.jsp">By Category</a></li>
 								</ul>
 							</li>
 							
 							<li>
-								<a href="/requested.html">COMMUNITY</a>
+								<a href="/view/community/c_gisang.jsp">COMMUNITY</a>
 								<ul>
-									<li><a href="/requested-result.html">오늘기상 인증</a></li>
-									<li><a href="/requested-detail.html">오늘계획 인증</a></li>
-									<li><a href="/requested-requested-bid.html">목표달성 인증</a></li>
+									<li><a href="/view/community/c_gisang.jsp">오늘기상 인증</a></li>
+									<li><a href="/view/community/c_plan.jsp">오늘계획 인증</a></li>
+									<li><a href="/view/community/c_goal.jsp">목표달성 인증</a></li>
 								</ul>
 							</li>
 							
 							<li>
-								<a href="/guide.html">NOTICE</a>
+								<a href="/view/notice/n_notice.jsp">NOTICE</a>
 								<ul>
-									<li><a href="/guide-result.html">Notice</a></li>
-									<li><a href="/guide-detail.html">Q & A</a></li>
+									<li><a href="/view/notice/n_notice.jsp">Notice</a></li>
+									<li><a href="/view/notice/n_qna.jsp">Q & A</a></li>
 								</ul>
 							</li>
 							
 							<li>
-								<a href="/#">MY PAGE</a>
+								<a href="/view/mypage/m_plan.jsp">MY PAGE</a>
 								<ul>
-									<li><a href="/guide-detail-setting.html">My Plan</a></li>
-									<li><a href="/about-us.html">My Commu</a></li>
-									<li><a href="/contact-us.html">My Info</a></li>
+									<li><a href="/view/mypage/m_plan.jsp">My Plan</a></li>
+									<li><a href="/view/mypage/m_commu.jsp">My Commu</a></li>
+									<li><a href="/view/mypage/m_info.jsp">My Info</a></li>
 								</ul>
 							</li>
 							

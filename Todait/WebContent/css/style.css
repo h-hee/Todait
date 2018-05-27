@@ -40,7 +40,7 @@
  */
 
 .navbar-default {
-    background: #1C1C1F;
+    background: #87C9AE;
 }
 
 .navbar {
@@ -379,7 +379,7 @@ ul.nav-mini li i {
  */
 
 .navbar-sticky {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #87C9AE;
     padding: 10px 0;
     z-index: 999999;
 }
